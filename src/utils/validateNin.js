@@ -1,0 +1,1 @@
+export const validNin = new RegExp(/^CM/);
